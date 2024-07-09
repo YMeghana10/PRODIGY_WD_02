@@ -1,0 +1,27 @@
+/* CSS code goes here */
+.wrapper {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.time {
+  font-size: 48px;
+}
+
+.colon {
+  margin: 0 10px;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+.active {
+  background-color: green;
+  color: white;
+}
+
+.stopActive {
+  background-color: red;
+  color: white;
+}
